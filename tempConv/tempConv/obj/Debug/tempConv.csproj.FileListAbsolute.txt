@@ -1,0 +1,15 @@
+C:\Users\sizda\source\repos\tempConv\tempConv\bin\Debug\tempConv.exe.config
+C:\Users\sizda\source\repos\tempConv\tempConv\bin\Debug\tempConv.exe
+C:\Users\sizda\source\repos\tempConv\tempConv\bin\Debug\tempConv.pdb
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv.csprojAssemblyReference.cache
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\MainWindow.g.cs
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\App.g.cs
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv_MarkupCompile.cache
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv_MarkupCompile.lref
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\MainWindow.baml
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv.g.resources
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv.Properties.Resources.resources
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv.csproj.GenerateResource.cache
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv.csproj.CoreCompileInputs.cache
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv.exe
+C:\Users\sizda\source\repos\tempConv\tempConv\obj\Debug\tempConv.pdb
